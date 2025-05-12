@@ -4,7 +4,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://teake.github.io/cashflowprojection**
+➡️ **https://teake.github.io/forecastingpensions**
 
 ## Requirements
 
